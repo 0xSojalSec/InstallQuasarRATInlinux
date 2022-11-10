@@ -34,7 +34,7 @@ fi
 
 echo """
 1) install .net 4.0
-2) run Quasar (always run option 1 before running Quasar)
+2) run Quasar (always run option 1 before running Quasar the first time)
 
 """
 read option

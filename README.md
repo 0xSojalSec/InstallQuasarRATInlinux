@@ -17,7 +17,7 @@ Simple Bash Script to install Quasar on linux using wine Fully Automated
 
 # ScreenShots
 
-![](Quasar.png)
+![](Quasar.PNG)
 
 
 

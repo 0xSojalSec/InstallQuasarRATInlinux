@@ -14,7 +14,7 @@ else
     apt install curl
     apt install unzip
     apt install wine
-    apt install wine-mono
+    apt install mono-complete
     apt install winetricks
 fi
 
